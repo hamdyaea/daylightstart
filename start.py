@@ -3,7 +3,7 @@
 
 from easygui import *
 
-image = "DayLightLogoSunSet.png"
+image = "DayLightLogoSunSet.gif"
 msg = "              Welcome to Daylight Linux\n\n\n              The lighter you become, the more you are able to run."
 choices = ["Daylight Linux"]
 buttonbox(msg, image=image, choices=choices)
